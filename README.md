@@ -26,13 +26,11 @@ Time spent: **8** hours spent in total
 
 ### App Walkthough GIF
 
-`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
-
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+<img src=https://github.com/BigDanVader/Flixter/blob/master/walkthrough2.gif width=250><br>
 
 ### Notes
 
-Describe any challenges encountered while building the app.
+I ran into problems implementing a shared element transition, both in technically executing it and in design choices. I see I am going to have to dedicate much more time design and UI in the future.
 
 ## Open-source libraries used
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
@@ -60,9 +58,6 @@ Describe any challenges encountered while building the app.
 <img src='walkthrough.gif' title='Video Walkthrough' width=250 alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).<br>
-
-### Notes
-Describe any challenges encountered while building the app.
 
 ### Open-source libraries used
 
